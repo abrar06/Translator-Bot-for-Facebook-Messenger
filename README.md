@@ -5,8 +5,8 @@ Receives data by [Chatfuel](https://www.chatfuel.com/) with get method.
 
 
 ## Try Here(For Direct Use):
-  * Page: https://www.facebook.com/translatorxs/
-  * Messenger: https://m.me/translatorxs/
+  * Page: https://www.facebook.com/translatorat/
+  * Messenger: https://m.me/translatorat/
 
 
 ## Help:
